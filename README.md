@@ -12,7 +12,7 @@ Aplicación de consola en Java que gestiona las operaciones de inventario y pedi
 
 ## 🔗 Enlaces de Entrega
 
-* **Repositorio de la práctica:** ([Repositorio-Entrega](https://github.com/emidres135/tienda-gestion-jdbc.git)
+* **Repositorio de la práctica:** [Repositorio-Entrega](https://github.com/emidres135/tienda-gestion-jdbc.git)
 * **Vídeo demostrativo (YouTube):** [EnlaceDriveVider](https://drive.google.com/file/d/1xFn24tM3eSKHkEZaEsQFkjieiSIZkgTq/view?usp=sharing)
 
 ---
